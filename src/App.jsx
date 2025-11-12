@@ -27,7 +27,7 @@ import NortheastHtl from './pages/PrivatePages/RegionHotels/NortheastHtl';
 import SoutheastHtl from './pages/PrivatePages/RegionHotels/SoutheastHtl';
 import SouthHtl from './pages/PrivatePages/RegionHotels/SouthHtl';
 
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Admin from './pages/Admin/Admin';
 
@@ -41,14 +41,11 @@ import PrivateRouteAdmin from './PrivateRoute/PrivateRouteAdmin';
 
 function App() {
   return (
-    <BrowserRouter basename="/brasilfront">
+    <HashRouter basename="/brasilfront">
       <UserStorage>
         <Routes>
           <Route path="/" element={<Home />}></Route>
-          <Route
-            path="/brasilfront/experiences"
-            element={<Experiences />}
-          ></Route>
+          <Route path="/experiences" element={<Experiences />}></Route>
           <Route path="/aboutus" element={<About />}></Route>
           <Route path="/sensations" element={<Sensations />}></Route>
           <Route path="/sensations/grp-fit" element={<GrpFit />}></Route>
@@ -99,7 +96,7 @@ function App() {
           ></Route>
         </Routes>
       </UserStorage>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

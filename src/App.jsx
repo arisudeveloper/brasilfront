@@ -45,7 +45,10 @@ function App() {
       <UserStorage>
         <Routes>
           <Route path="/" element={<Home />}></Route>
-          <Route path="/experiences" element={<Experiences />}></Route>
+          <Route
+            path="/brasilfront/experiences"
+            element={<Experiences />}
+          ></Route>
           <Route path="/aboutus" element={<About />}></Route>
           <Route path="/sensations" element={<Sensations />}></Route>
           <Route path="/sensations/grp-fit" element={<GrpFit />}></Route>

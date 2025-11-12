@@ -19,7 +19,7 @@ const DeleteAccount = () => {
     }
 
     if (email === data.email) {
-      fetch('http://localhost:3000/api/v1/delete', {
+      fetch('https://backend-production-fb47e.up.railway.app/api/v1/delete', {
         method: 'DELETE',
         headers: { 'Content-Type': 'application/json' },
         credentials: 'include',

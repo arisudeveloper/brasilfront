@@ -89,7 +89,7 @@ function Admin() {
                           <button
                             onClick={() => {
                               fetch(
-                                `http://localhost:3000/api/v1/admin/user/${user.id}`,
+                                `https://backend-production-fb47e.up.railway.app/api/v1/admin/user/${user.id}`,
                                 {
                                   method: 'PATCH',
                                   headers: {

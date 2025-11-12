@@ -41,7 +41,7 @@ import PrivateRouteAdmin from './PrivateRoute/PrivateRouteAdmin';
 
 function App() {
   return (
-    <BrowserRouter basename="/brasilfront">
+    <BrowserRouter>
       <UserStorage>
         <Routes>
           <Route path="/brasilfront/" element={<Home />}></Route>

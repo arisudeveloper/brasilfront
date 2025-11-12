@@ -1,0 +1,46 @@
+#footer {
+  background-color: #053653;
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.8rem;
+  flex-wrap: wrap; /* pra caber bem no mobile */
+}
+
+footer section {
+  color: white;
+}
+
+footer section span {
+  font-weight: bolder;
+}
+
+/* seção de créditos */
+.credits {
+  width: 100%;
+  text-align: center;
+  color: #bbb;
+}
+.credits h6{
+    font-size: 0.5rem;
+}
+
+.credits a {
+  color: #bbb;
+  text-decoration: none;
+}
+
+.credits a:hover {
+  text-decoration: underline;
+}
+
+
+/* Responsivo */
+@media (max-width: 768px) {
+  footer {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+}

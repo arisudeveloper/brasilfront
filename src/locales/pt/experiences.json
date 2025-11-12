@@ -1,0 +1,52 @@
+{
+  "title": "O MELHOR DO BRASIL",
+  "cards": {
+    "cachaca": {
+      "title": "Degustação de Cachaça",
+      "text": "Descubra os segredos da cachaça artesanal em uma das regiões mais tradicionais do Brasil. Prove variedades exclusivas enquanto aprende sobre o processo de produção.",
+      "location": "Paraty, RJ"
+    },
+    "capoeira": {
+      "title": "Aula de Capoeira",
+      "text": "Vivencie a energia da capoeira com mestres renomados em Salvador. Aprenda os movimentos básicos e a história dessa arte marcial única que mistura dança, música e esporte.",
+      "location": "Salvador, BA"
+    },
+    "regata": {
+      "title": "Passeio de Vela em Regata",
+      "text": "Navegue pela Baía de Guanabara a bordo de um veleiro de regata e admire vistas deslumbrantes do Rio de Janeiro sob uma nova perspectiva.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "iemanja": {
+      "title": "Oferenda a Iemanjá",
+      "text": "Participe desse sagrado ritual afro-brasileiro oferecendo presentes ao mar em homenagem a Iemanjá, a rainha do oceano. Uma experiência profundamente espiritual e cultural.",
+      "location": "Salvador, BA"
+    },
+    "grafite": {
+      "title": "Oficina de Grafite",
+      "text": "Participe de uma oficina com artistas locais e aprenda as técnicas por trás dos murais que coloriram a capital mundial do grafite. No final, deixe sua marca em um painel coletivo e leve para casa a vibrante essência das ruas do Rio.",
+      "location": "São Paulo, SP"
+    },
+    "cristo": {
+      "title": "Cara a Cara – Cristo Redentor",
+      "text": "Desfrute de um encontro inesquecível com vistas panorâmicas impressionantes e um momento especial para contemplar a energia única desse lugar. Um passeio que mistura fé, cultura e natureza em um só cenário.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "fantasias": {
+      "title": "Criação de Fantasias de Carnaval",
+      "text": "Nessa experiência, você vai conhecer os bastidores do Carnaval do Rio e colocar a mão na massa para criar sua própria fantasia com a ajuda de artesãos e carnavalescos. Uma experiência vibrante cheia de brilho, cor e criatividade.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "havaianas": {
+      "title": "Oficina de Havaianas Personalizadas",
+      "text": "Crie Havaianas personalizadas com o logotipo da sua empresa.",
+      "location": "Rio de Janeiro, RJ"
+    }
+  },
+  "caipirinha": {
+    "title": "WORKSHOP DE CAIPIRINHA",
+    "text": "Desfrute de uma experiência exclusiva onde você aprenderá a preparar a tradicional caipirinha utilizando técnicas refinadas e ingredientes cuidadosamente selecionados. Guiado por especialistas, descubra as combinações perfeitas de frutas e a arte de elaborar esse coquetel icônico brasileiro."
+  },
+  "video": {
+    "title": "Aventura e Beleza em uma Regata pela Baía de Guanabara"
+  }
+}

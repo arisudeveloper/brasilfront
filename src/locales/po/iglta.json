@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "LGBTQIA+ Brazil Sensations",
+    "subtitle": "Nowy Partner IGLTA",
+    "logoAlt": "Logo IGLTA"
+  },
+  "about": {
+    "title": "Jesteśmy Brazil Sensations.",
+    "text": "Jesteśmy czymś więcej niż zwykłym organizatorem wycieczek – specjalizujemy się w tworzeniu doświadczeń, które pobudzają zmysły, celebrują wolność i pozostawiają wspomnienia na całe życie. Na czym się skupiamy? Na autentycznej, różnorodnej i pełnej życia Brazylii – ze szczególnym naciskiem na podróże grupowe dla społeczności LGBT, w których każdy detal jest starannie zaplanowany z myślą o inkluzywności, radości i bezpieczeństwie. Wierzymy, że podróżowanie w grupie to najpełniejszy sposób świętowania życia: z wspólnym śmiechem, wyjątkowymi odkryciami i głębokimi więziami. Dlatego nasze trasy łączą komfort, ekskluzywność i serdeczną gościnność – z przewodnikami przyjaznymi LGBT, zakwaterowaniem akceptującym różnorodność oraz immersyjnymi doświadczeniami, które odzwierciedlają ducha każdego miejsca i rytm każdej grupy. Od tętniących życiem miast po rajskie plaże, od kolorowych imprez po zapierające dech w piersiach krajobrazy – z lokalną kuchnią i kulturą po drodze – dbamy o każdy detal z pasją i profesjonalizmem, aby Twoja grupa mogła po prostu cieszyć się chwilą. Z Brazil Sensations nie tylko odkrywasz Brazylię. Ty ją przeżywasz – autentycznie, bezpiecznie i z ciepłem, które oferuje tylko ten kraj.",
+    "mapAlt": "Mapa Brazylii"
+  },
+  "regions": {
+    "north": {
+      "title": "Region Północny",
+      "text": "Region Północny podkreśla opór i ekspresję LGBTQIA+ poprzez imprezy kulturalne, ruchy społeczne i lokalnych artystów w miastach takich jak Belém i Manaus. Dzięki rejsom po rzekach, ekoturystyce i inicjatywom prowadzonym przez rdzenne społeczności, queerowi podróżnicy odnajdują autentyczną gościnność, gdzie tożsamość i tradycja spotykają się, tworząc wyjątkowe i inkluzywne doświadczenie amazońskie."
+    },
+    "northeast": {
+      "title": "Region Północno-Wschodni",
+      "text": "Region Północno-Wschodni celebruje życie, wolność i dumę LGBTQIA+ poprzez inkluzywne karnawały, tętniące życiem sceny artystyczne oraz plaże przyjazne queer w miastach takich jak Salvador, Recife i Fortaleza. Dzięki ciepłemu duchowi, bogatej kulturze i gościnnej atmosferze, region oferuje podróżnikom radosną i autentyczną celebrację różnorodności i miłości."
+    },
+    "centralWest": {
+      "title": "Region Środkowo-Zachodni",
+      "text": "Region Środkowo-Zachodni łączy dziką przyrodę z rosnącą widocznością społeczności LGBTQIA+, od progresywnej sceny Brasílii po Pantanal i Chapadę dos Veadeiros. Z wodospadami, mistycznymi krajobrazami i inkluzywnymi retreatami, region oferuje queerowym podróżnikom duchowość, zrównoważony rozwój i transformujące doświadczenia w harmonii z naturą."
+    },
+    "southeast": {
+      "title": "Region Południowo-Wschodni",
+      "text": "Region Południowo-Wschodni to centrum różnorodności Brazylii, z światowej sławy Paradą Dumy w São Paulo, kultowymi plażami queer w Rio oraz tętniącymi życiem scenami kulturalnymi w miastach takich jak Belo Horizonte i Vitória. Od życia nocnego i festiwali po kolektywy artystyczne i projekty społeczne, region celebruje dumę LGBTQIA+ jako sposób życia."
+    },
+    "southern": {
+      "title": "Region Południowy",
+      "text": "Region Południowy Brazylii łączy europejski urok, zachwycające krajobrazy i rosnącą scenę LGBTQIA+. Z queerowymi plażami w Floripie, festiwalami w Curitibie i romantyczną atmosferą Gramado, region łączy piękno z inkluzywnością, oferując podróżnikom zarówno pełne życia wyjazdy, jak i przyjazne przestrzenie."
+    }
+  }
+}

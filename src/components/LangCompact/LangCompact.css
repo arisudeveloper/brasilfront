@@ -1,0 +1,52 @@
+.languagesCompact {
+    position: absolute;
+    top: 5%;
+    left:15%;
+    transform: translate(-50%);
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+    text-align: center;
+    z-index: 1200;
+}
+
+.languagesCompact ul {
+    display: flex;
+    column-gap: 12px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.languagesCompact li {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.languagesCompact img {
+    width: 30px;
+    height: auto;
+}
+
+.languagesCompact button {
+    border: none;
+    cursor: pointer;
+    background: transparent;
+    color: inherit;
+    padding: 4px;
+}
+
+/* Responsividade LangCompact */
+@media (max-width: 768px) {
+  .languagesCompact {
+    top: 3%;
+    /*left: 42%;*/
+  }
+
+  .languagesCompact ul { flex-direction: column; row-gap: 6px; }
+  .languagesCompact img {
+    width: 17px;
+    height: auto;
+}
+  
+}

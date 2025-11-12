@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "LGBTQIA+ Brazil Sensations",
+    "subtitle": "Um novo parceiro IGLTA",
+    "logoAlt": "Logo IGLTA"
+  },
+  "about": {
+    "title": "Nós somos Brazil Sensations.",
+    "text": "Mais do que um operador turístico, somos especialistas em criar experiências que despertam os sentidos, celebram a liberdade e deixam memórias para a vida inteira. Nosso foco? O Brasil autêntico, diverso e vibrante — com um carinho especial por viagens em grupo voltadas para a comunidade LGBT, onde cada detalhe é cuidadosamente pensado com inclusão, alegria e segurança. Acreditamos que viajar em grupo é a forma mais verdadeira de celebrar a vida: com risadas compartilhadas, descobertas únicas e conexões profundas. Por isso, nossos roteiros combinam conforto, exclusividade e hospitalidade acolhedora — com guias inclusivos, acomodações LGBT-friendly e experiências imersivas que refletem a alma de cada destino e o ritmo de cada grupo. De cidades vibrantes a praias paradisíacas, de festas coloridas a paisagens naturais deslumbrantes — com um toque da culinária e cultura local — cuidamos de cada detalhe com paixão e profissionalismo, para que seu grupo possa simplesmente aproveitar o momento. Com a Brazil Sensations, você não apenas vê o Brasil. Você vivencia o Brasil — com autenticidade, segurança e a acolhida que só este país pode oferecer.",
+    "mapAlt": "Mapa do Brasil"
+  },
+  "regions": {
+    "north": {
+      "title": "Região Norte",
+      "text": "A região Norte destaca a resistência e expressão LGBTQIA+ através de festas culturais, movimentos sociais e artistas locais em cidades como Belém e Manaus. Com cruzeiros fluviais, ecoturismo e iniciativas lideradas por comunidades indígenas, os viajantes queer encontram hospitalidade autêntica onde identidade e tradição se encontram, criando uma experiência amazônica única e inclusiva."
+    },
+    "northeast": {
+      "title": "Região Nordeste",
+      "text": "O Nordeste celebra a vida, a liberdade e o orgulho LGBTQIA+ através de carnavais inclusivos, cenas artísticas vibrantes e praias queer-friendly em cidades como Salvador, Recife e Fortaleza. Com seu espírito caloroso, cultura rica e energia acolhedora, a região oferece aos viajantes uma celebração alegre e autêntica da diversidade e do amor."
+    },
+    "centralWest": {
+      "title": "Região Centro-Oeste",
+      "text": "O Centro-Oeste combina natureza selvagem com a crescente visibilidade LGBTQIA+, desde a cena progressista de Brasília até o Pantanal e a Chapada dos Veadeiros. Com cachoeiras, paisagens místicas e retiros inclusivos, a região oferece aos viajantes queer espiritualidade, sustentabilidade e jornadas transformadoras em harmonia com a natureza."
+    },
+    "southeast": {
+      "title": "Região Sudeste",
+      "text": "O Sudeste é o polo da diversidade no Brasil, com o famoso Desfile do Orgulho de São Paulo, as icônicas praias queer do Rio e cenas culturais vibrantes em cidades como Belo Horizonte e Vitória. Da vida noturna e festivais a coletivos artísticos e projetos comunitários, a região celebra o orgulho LGBTQIA+ como um estilo de vida."
+    },
+    "southern": {
+      "title": "Região Sul",
+      "text": "O Sul do Brasil combina charme europeu, paisagens deslumbrantes e uma cena LGBTQIA+ em crescimento. Com as praias queer de Floripa, os festivais de Curitiba e o clima romântico de Gramado, a região combina beleza e inclusão, oferecendo aos viajantes tanto escapadas vibrantes quanto espaços acolhedores."
+    }
+  }
+}

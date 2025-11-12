@@ -1,0 +1,29 @@
+{
+    "titleRegister": "Get Started",
+    "subtitleRegister":{
+        "part1": "Want to know more about our services? Are you interested in knowing our proposals?",
+        "part2": "Complete the following form and we will get in touch with you."
+    },
+    "firstName": "First Name:",
+    "lastName": "Last Name:",
+    "email": "E-mail:",
+    "username": "Username:",
+    "password": "Password:",
+    "password2": "Confirm yout password:",
+    "company": "Company:",
+    "country": "Country:",
+    "mice": "MICE (Meetings, incentives, conferences, events):",
+    "fit": "FIT (Individual tourists):",
+    "groups": "Groups:",
+    "guaranteed": "Guaranteed departures:",
+    "leisure": "Leisure",
+    "btnRegister": "Register",
+    "phone": "Phone",
+    "regFName": "Invalid first name. Use letters only.",
+    "regLName": "Invalid last name. Use letters only.",
+    "regEmail": "Enter a valid email address.",
+    "regPass": "The password must be at least 6 characters long and include letters and numbers.",
+    "regConfirmPass": "Passwords do not match.",
+    "regPhone": "Invalid phone number.",
+    "regWhats": "Invalid WhatsApp number."
+}

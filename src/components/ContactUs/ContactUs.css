@@ -1,0 +1,36 @@
+#footerContact {
+  background-color: #053653;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  height: 200px;
+  flex-wrap: wrap; /* ajuda no mobile */
+}
+
+#footerContact section {
+  flex: 1;
+  text-align: center;
+}
+
+.imgBrasil {
+  width: 200px;
+  transition: width 0.3s ease;
+}
+
+.sec1footerContact li{
+    list-style-type: none;
+}
+
+@media (max-width: 768px) {
+  #footerContact {
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+  }
+
+  .imgBrasil {
+    width: 100px;
+    margin: 10px 0;
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "LO MEJOR DE BRASIL",
+  "cards": {
+    "cachaca": {
+      "title": "Degustación de Cachaça",
+      "text": "Descubre los secretos de la cachaça artesanal en una de las regiones más tradicionales de Brasil. Prueba variedades exclusivas mientras aprendes sobre el proceso de producción.",
+      "location": "Paraty, RJ"
+    },
+    "capoeira": {
+      "title": "Clase de Capoeira",
+      "text": "Vive la energía de la capoeira con maestros reconocidos en Salvador. Aprende los movimientos básicos y la historia de este arte marcial único que mezcla danza, música y deporte.",
+      "location": "Salvador, BA"
+    },
+    "regata": {
+      "title": "Tour en Vela de Regata",
+      "text": "Navega por las aguas de la Bahía de Guanabara a bordo de un velero de regata y admira impresionantes vistas de Río de Janeiro desde una perspectiva completamente nueva.",
+      "location": "Río de Janeiro, RJ"
+    },
+    "iemanja": {
+      "title": "Ofrenda a Iemanjá",
+      "text": "Participa en este sagrado ritual afrobrasileño ofreciendo regalos al mar en honor a Iemanjá, la reina del océano. Una experiencia profundamente espiritual y cultural.",
+      "location": "Salvador, BA"
+    },
+    "grafite": {
+      "title": "Taller de Graffiti",
+      "text": "Únete a un taller con artistas locales y aprende las técnicas detrás de los murales que colorean la capital mundial del graffiti. Al final, deja tu propia marca en un panel colectivo y llévate la vibrante esencia de las calles de Río.",
+      "location": "São Paulo, SP"
+    },
+    "cristo": {
+      "title": "Cara a Cara – Cristo Redentor",
+      "text": "Disfruta de un encuentro inolvidable con impresionantes vistas panorámicas y un momento especial para contemplar la energía única de este lugar. Un tour que mezcla fe, cultura y naturaleza en un solo escenario.",
+      "location": "Río de Janeiro, RJ"
+    },
+    "fantasias": {
+      "title": "Creación de Trajes de Carnaval",
+      "text": "En esta experiencia, conocerás los bastidores del Carnaval de Río y participarás en la creación de tu propio traje con la ayuda de artesanos y diseñadores. Una experiencia vibrante llena de brillo, color y creatividad.",
+      "location": "Río de Janeiro, RJ"
+    },
+    "havaianas": {
+      "title": "Taller de Havaianas Personalizadas",
+      "text": "Crea Havaianas personalizadas con el logo de tu empresa.",
+      "location": "Río de Janeiro, RJ"
+    }
+  },
+  "caipirinha": {
+    "title": "TALLER DE CAIPIRINHA",
+    "text": "Disfruta de una experiencia exclusiva donde aprenderás a preparar la tradicional caipirinha utilizando técnicas refinadas e ingredientes cuidadosamente seleccionados. Guiado por expertos, descubre las combinaciones perfectas de frutas y el arte de elaborar este cóctel icónico brasileño."
+  },
+  "video": {
+    "title": "Aventura y Belleza en una Regata por la Bahía de Guanabara"
+  }
+}

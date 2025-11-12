@@ -1,0 +1,42 @@
+.deleteButton{
+    margin: 0px;  
+}
+
+.deleteButton li{
+    list-style-type: none;
+}
+
+.deleteButton a{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background-color: #125277;
+    display: flex;    
+    justify-content: center;
+    padding: 8px;
+    border-radius: 50%;
+    width: 40px;
+}
+
+.deleteButton input[type="email"] {
+    width: 15%;
+    height: 30%;
+    background-color: #a7a7a7;
+}
+
+#labelDelete{
+    text-align: center;
+}
+
+.deleteButton form{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #125277;
+    width: 80vw;
+    margin: 0 auto;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}

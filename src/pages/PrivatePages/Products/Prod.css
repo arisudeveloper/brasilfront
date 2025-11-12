@@ -1,0 +1,55 @@
+/*pagina HomeProd*/
+.containerProd {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 50px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.cardProd {
+  width: 345px;
+}
+
+/*subpaginas das regioes*/
+.titleProd{
+  padding-bottom: 10px;
+  width: 80%;
+  margin: 20px;
+  border-bottom: 2px dotted #084b71;
+  text-align: center;
+  font-weight: 300;
+  color: #084b71;
+}
+
+.containerProd2{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100vh;
+}
+
+.langProd{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 80vw;
+  padding: 20px;
+}
+
+.langProd h3{
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+
+
+@media (max-width: 768px){
+  .langProd{
+    flex-direction: column;
+    max-width: 300px;
+  }
+}

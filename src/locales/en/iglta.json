@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "LGBTQIA+ Brazil Sensations",
+    "subtitle": "A New IGLTA Partner",
+    "logoAlt": "IGLTA Logo"
+  },
+  "about": {
+    "title": "We Are Brazil Sensations.",
+    "text": "More than just a tour operator, we are specialists in creating experiences that awaken the senses, celebrate freedom, and leave lifelong memories. Our focus? The authentic, diverse, and vibrant Brazil — with a special affection for group travel designed for the LGBT community, where every detail is thoughtfully crafted with inclusion, joy, and safety. We believe that traveling in a group is the truest way to celebrate life: with shared laughter, unique discoveries, and deep connections. That’s why our itineraries combine comfort, exclusivity, and warm hospitality — with inclusive guides, LGBT-friendly accommodations, and immersive experiences that reflect the soul of each destination and the pace of each group. From vibrant cities to paradise beaches, from colorful parties to breathtaking natural landscapes — with a taste of local cuisine and culture along the way — we take care of every detail with passion and professionalism, so your group can simply enjoy the moment. With Brazil Sensations, you don’t just see Brazil. You experience Brazil — with authenticity, safety, and the warmth that only this country can offer.",
+    "mapAlt": "Brazil Map"
+  },
+  "regions": {
+    "north": {
+      "title": "North Region",
+      "text": "The North region highlights LGBTQIA+ resistance and expression through cultural parties, social movements, and local artists in cities like Belém and Manaus. With river cruises, ecotourism, and indigenous-led initiatives, queer travelers find authentic hospitality where identity and tradition meet, creating a unique and inclusive Amazonian experience."
+    },
+    "northeast": {
+      "title": "Northeast Region",
+      "text": "The Northeast celebrates life, freedom, and LGBTQIA+ pride through inclusive Carnivals, vibrant art scenes, and queer-friendly beaches in cities like Salvador, Recife, and Fortaleza. With its warm spirit, rich culture, and welcoming energy, the region offers travelers a joyful and authentic celebration of diversity and love."
+    },
+    "centralWest": {
+      "title": "Central-West Region",
+      "text": "The Central-West blends wild nature with growing LGBTQIA+ visibility, from Brasília’s progressive scene to the Pantanal and Chapada dos Veadeiros. With waterfalls, mystical landscapes, and inclusive retreats, the region offers queer travelers spirituality, sustainability, and transformative journeys in harmony with nature."
+    },
+    "southeast": {
+      "title": "Southeast Region",
+      "text": "The Southeast is Brazil’s hub of diversity, with São Paulo’s world-famous Pride Parade, Rio’s iconic queer beaches, and vibrant cultural scenes in cities like Belo Horizonte and Vitória. From nightlife and festivals to art collectives and community projects, the region celebrates LGBTQIA+ pride as a way of life."
+    },
+    "southern": {
+      "title": "Southern Region",
+      "text": "Southern Brazil combines European charm, stunning landscapes, and a growing LGBTQIA+ scene. With Floripa’s queer beaches, Curitiba’s festivals, and Gramado’s romantic atmosphere, the region blends beauty and inclusivity, offering travelers both vibrant escapes and welcoming spaces."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+.pendingContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../assets/images/register/background.png");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 10px;
+}
+
+.messagePending{
+    background-color: #051c2ecd;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.messagePending h1{
+    color: whitesmoke;
+    font-weight: 300;
+    text-align: center;
+}
+
+.messagePending p{
+    max-width: 600px;
+}
+
+.buttonPending{
+    margin: 15px;
+    padding: 15px;
+    font-size: 1.1rem;
+    border-radius: 15px;
+    cursor: pointer;
+}

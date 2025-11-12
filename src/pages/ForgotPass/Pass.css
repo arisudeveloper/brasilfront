@@ -1,0 +1,40 @@
+.passContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)),url("../../assets/images/privatePages/folhagem.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 10px;
+    
+}
+
+.messagePass{
+    background-color: #022311cd;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.messagePass label{
+    color: whitesmoke;
+    font-weight: 300;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+.messagePass input{
+    margin-top: 20px;
+}
+
+.buttonPass{
+    margin: 15px;
+    padding: 15px;
+    font-size: 1.1rem;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+}

@@ -1,0 +1,52 @@
+{
+  "title": "NAJLEPSZE Z BRAZYLII",
+  "cards": {
+    "cachaca": {
+      "title": "Degustacja Cachaçy",
+      "text": "Odkryj sekrety rzemieślniczej cachaçy w jednym z najbardziej tradycyjnych regionów Brazylii. Skosztuj wyjątkowych odmian, poznając proces ich produkcji.",
+      "location": "Paraty, RJ"
+    },
+    "capoeira": {
+      "title": "Lekcja Capoeiry",
+      "text": "Poczuj energię capoeiry z renomowanymi mistrzami w Salvadorze. Naucz się podstawowych ruchów i poznaj historię tej unikalnej sztuki walki łączącej taniec, muzykę i sport.",
+      "location": "Salvador, BA"
+    },
+    "regata": {
+      "title": "Rejs Regatowy",
+      "text": "Żegluj po wodach Zatoki Guanabara na pokładzie żaglówki regatowej i podziwiaj zapierające dech w piersiach widoki Rio de Janeiro z zupełnie nowej perspektywy.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "iemanja": {
+      "title": "Ofiara dla Iemanjá",
+      "text": "Weź udział w tym świętym afro-brazylijskim rytuale, składając dary morzu na cześć Iemanjá, królowej oceanu. To głęboko duchowe i kulturowe przeżycie.",
+      "location": "Salvador, BA"
+    },
+    "grafite": {
+      "title": "Warsztaty Graffiti",
+      "text": "Dołącz do warsztatów z lokalnymi artystami graffiti i poznaj techniki stojące za muralami, które barwią stolicę światowego street artu. Na zakończenie zostaw swój własny ślad na wspólnym panelu.",
+      "location": "São Paulo, SP"
+    },
+    "cristo": {
+      "title": "Twarzą w Twarz – Chrystus Odkupiciel",
+      "text": "Przeżyj niezapomniane spotkanie z zapierającymi dech panoramicznymi widokami i wyjątkowym momentem refleksji nad energią tego miejsca. Wycieczka łącząca wiarę, kulturę i naturę.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "fantasias": {
+      "title": "Tworzenie Kostiumów Karnawałowych",
+      "text": "Zajrzyj za kulisy karnawału w Rio i stwórz własny kostium z lokalnymi rzemieślnikami i projektantami. To barwne doświadczenie pełne blasku, koloru i kreatywności.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "havaianas": {
+      "title": "Warsztaty Personalizacji Havaianas",
+      "text": "Stwórz spersonalizowane Havaianas z logo swojej firmy.",
+      "location": "Rio de Janeiro, RJ"
+    }
+  },
+  "caipirinha": {
+    "title": "WARSZTATY CAIPIRINHY",
+    "text": "Weź udział w wyjątkowym doświadczeniu, podczas którego nauczysz się przygotowywać tradycyjną caipirinhę, korzystając z wyrafinowanych technik i starannie dobranych składników."
+  },
+  "video": {
+    "title": "Przygoda i Piękno podczas Rejsu Regatowego po Zatoce Guanabara"
+  }
+}

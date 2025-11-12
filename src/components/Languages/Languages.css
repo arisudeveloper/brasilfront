@@ -1,0 +1,30 @@
+.languages ul{
+    display: flex;
+    column-gap: 20px;
+    justify-content: flex-end;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+
+.languages li{
+    list-style-type: none;
+    padding: 5px;
+}
+
+.languages img{
+    width: 25px;
+}
+
+.languages button{
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+    .languages img{
+        width: 12px;
+    }
+}

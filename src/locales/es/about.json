@@ -1,0 +1,55 @@
+{
+  "titleSpan": "SOBRE",
+  "title": "NOSOTROS",
+  "paragraph1": "Fundada en 2014, Brazil Sensations representa una de las empresas más completas, innovadoras y confiables del sector MICE y de servicios de lujo en Brasil.",
+  "paragraph2": "Con una estructura organizacional sólida y un profundo conocimiento del país, nuestro equipo internacional de expertos en el sector MICE y de servicios de lujo, junto con nuestros recursos internos, cuenta con una amplia red de socios confiables y reconocidos. Unidos para crear experiencias y soluciones a medida para nuestros clientes, tanto individuales como corporativos, grupos pequeños o grandes proyectos.",
+  "list": {
+    "item1": "Equipo dinámico que aporta un toque creativo",
+    "item2": "Profesionales comprometidos, dedicados a satisfacer las necesidades de sus socios",
+    "item3": "Grupo multicultural que ama los desafíos y divertirse"
+  },
+  "mission": {
+    "title": "Misión",
+    "text": "Proporcionar el plan de viaje completo y hacer que nuestros huéspedes vivan la mejor experiencia."
+  },
+  "vision": {
+    "title": "Visión",
+    "text": "Consolidar nuestra posición como una de las empresas líderes en turismo, ofreciendo servicios de calidad, creatividad, competitividad, responsabilidad social e innovación."
+  },
+  "values": {
+    "title": "Valores",
+    "text": "Hospitalidad, integridad, pasión, compromiso y lealtad al cliente, evolución constante, disponibilidad para brindar la mejor experiencia de planificación de viajes."
+  },
+  "green": {
+    "title1": "¡SOMOS 100% VERDES!",
+    "title2": "NUESTRO COMPROMISO CON EL MUNDO",
+    "text": "Brazil Sensations es la primera DMC brasileña en participar en la compensación de carbono de sus actividades. Además de nuestros gestos diarios para minimizar nuestro impacto en el planeta, Brazil Sensations ha querido no solo ser ecológica y sostenible, sino también reforzar el concepto regenerativo. Tras una larga experiencia con Agroforestry Carbon, nuestras emisiones de CO2 se compensan mediante contribuciones a proyectos certificados en Brasil.",
+    "imgAlt": "Compromiso Verde"
+  },
+  "impact": {
+    "environment": {
+      "title": "IMPACTO",
+      "span": "AMBIENTAL",
+      "list": [
+        "Recuperación de áreas degradadas",
+        "Aumento de la captura de CO2 por área",
+        "Mejora de las condiciones del suelo",
+        "Protección de fuentes de agua",
+        "Aumento de la biodiversidad",
+        "Incremento de la productividad por zona"
+      ]
+    },
+    "social": {
+      "title": "IMPACTO",
+      "span": "SOCIAL",
+      "list": [
+        "Diversificación cultural y productiva",
+        "Generación de resiliencia económica",
+        "Garantía de seguridad alimentaria",
+        "Refuerzo de los productos locales",
+        "Alimentos con mayor valor nutricional",
+        "Mejora de la calidad de vida del agricultor"
+      ]
+    }
+  }
+}

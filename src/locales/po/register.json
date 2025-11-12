@@ -1,0 +1,29 @@
+{
+    "titleRegister": "Rozpocznij",
+    "subtitleRegister": {
+        "part1": "Chcesz dowiedzieć się więcej o naszych usługach? Interesują Cię nasze propozycje?",
+        "part2": "Wypełnij poniższy formularz, a skontaktujemy się z Tobą."
+    },
+    "firstName": "Imię:",
+    "lastName": "Nazwisko:",
+    "email": "E-mail:",
+    "username": "Nazwa użytkownika:",
+    "password": "Hasło:",
+    "password2": "Potwierdź hasło:",
+    "company": "Firma:",
+    "country": "Kraj:",
+    "mice": "MICE (Spotkania, incentive, konferencje, wydarzenia):",
+    "fit": "FIT (Turyści indywidualni):",
+    "groups": "Grupy:",
+    "guaranteed": "Gwarantowane wyjazdy:",
+    "leisure": "Wypoczyne:",
+    "btnRegister": "Zarejestruj się",
+    "phone": "Telefon",
+    "regFName": "Nieprawidłowe imię. Używaj tylko liter.",
+    "regLName": "Nieprawidłowe nazwisko. Używaj tylko liter.",
+    "regEmail": "Wprowadź prawidłowy adres e-mail.",
+    "regPass": "Hasło musi mieć co najmniej 6 znaków i zawierać litery oraz cyfry.",
+    "regConfirmPass": "Hasła nie są zgodne.",
+    "regPhone": "Nieprawidłowy numer telefonu.",
+    "regWhats": "Nieprawidłowy numer WhatsApp."
+}

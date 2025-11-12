@@ -1,0 +1,52 @@
+{
+  "title": "DAS BESTE VON BRASILIEN",
+  "cards": {
+    "cachaca": {
+      "title": "Cachaça-Verkostung",
+      "text": "Entdecken Sie die Geheimnisse der handwerklichen Cachaça in einer der traditionellsten Regionen Brasiliens. Probieren Sie exklusive Sorten und erfahren Sie mehr über den Herstellungsprozess.",
+      "location": "Paraty, RJ"
+    },
+    "capoeira": {
+      "title": "Capoeira-Kurs",
+      "text": "Erleben Sie die Energie der Capoeira mit renommierten Meistern in Salvador. Lernen Sie die Grundbewegungen und die Geschichte dieser einzigartigen Kampfkunst, die Tanz, Musik und Sport vereint.",
+      "location": "Salvador, BA"
+    },
+    "regata": {
+      "title": "Regatta-Segeltour",
+      "text": "Segeln Sie durch die Gewässer der Guanabara-Bucht an Bord eines Regatta-Segelboots und genießen Sie atemberaubende Ausblicke auf Rio de Janeiro aus einer ganz neuen Perspektive.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "iemanja": {
+      "title": "Opfergabe an Iemanjá",
+      "text": "Nehmen Sie an diesem heiligen afro-brasilianischen Ritual teil, indem Sie Gaben dem Meer zu Ehren von Iemanjá, der Königin des Ozeans, darbringen. Ein tief spirituelles und kulturelles Erlebnis.",
+      "location": "Salvador, BA"
+    },
+    "grafite": {
+      "title": "Graffiti-Workshop",
+      "text": "Nehmen Sie an einem Workshop mit lokalen Graffiti-Künstlern teil und lernen Sie die Techniken hinter den Wandgemälden kennen, die die Graffiti-Hauptstadt der Welt färben. Am Ende hinterlassen Sie Ihre eigene Spur auf einem gemeinsamen Panel.",
+      "location": "São Paulo, SP"
+    },
+    "cristo": {
+      "title": "Angesicht zu Angesicht – Christus der Erlöser",
+      "text": "Genießen Sie ein unvergessliches Erlebnis mit atemberaubenden Panoramablicken und einem besonderen Moment, um die einzigartige Energie dieses Ortes zu spüren. Eine Tour, die Glaube, Kultur und Natur vereint.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "fantasias": {
+      "title": "Karnevalskostüm-Herstellung",
+      "text": "Blicken Sie hinter die Kulissen des Karnevals in Rio und gestalten Sie Ihr eigenes Kostüm mit Handwerkern und Designern. Ein lebendiges Erlebnis voller Glanz, Farbe und Kreativität.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "havaianas": {
+      "title": "Havaianas-Workshop nach Maß",
+      "text": "Gestalten Sie personalisierte Havaianas mit dem Logo Ihres Unternehmens.",
+      "location": "Rio de Janeiro, RJ"
+    }
+  },
+  "caipirinha": {
+    "title": "CAIPIRINHA-WORKSHOP",
+    "text": "Genießen Sie ein exklusives Erlebnis, bei dem Sie lernen, die traditionelle Caipirinha mit verfeinerten Techniken und sorgfältig ausgewählten Zutaten zuzubereiten."
+  },
+  "video": {
+    "title": "Abenteuer und Schönheit bei einer Regatta durch die Guanabara-Bucht"
+  }
+}

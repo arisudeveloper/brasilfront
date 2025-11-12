@@ -1,0 +1,29 @@
+{
+    "titleRegister": "Commencer",
+    "subtitleRegister": {
+        "part1": "Vous souhaitez en savoir plus sur nos services ? Êtes-vous intéressé par nos propositions ?",
+        "part2": "Remplissez le formulaire ci-dessous et nous vous contacterons."
+    },
+    "firstName": "Prénom :",
+    "lastName": "Nom :",
+    "email": "E-mail :",
+    "username": "Nom d'utilisateur :",
+    "password": "Mot de passe :",
+    "password2": "Confirmez votre mot de passe :",
+    "company": "Entreprise :",
+    "country": "Pays :",
+    "mice": "MICE (Réunions, incentives, conférences, événements) :",
+    "fit": "FIT (Touristes individuels) :",
+    "groups": "Groupes :",
+    "guaranteed": "Départs garantis :",
+    "leisure": "Loisir",
+    "btnRegister": "S'inscrire",
+    "phone": "Téléphone",
+    "regFName": "Prénom invalide. Utilisez uniquement des lettres.",
+    "regLName": "Nom invalide. Utilisez uniquement des lettres.",
+    "regEmail": "Entrez une adresse e-mail valide.",
+    "regPass": "Le mot de passe doit comporter au moins 6 caractères, incluant des lettres et des chiffres.",
+    "regConfirmPass": "Les mots de passe ne correspondent pas.",
+    "regPhone": "Numéro de téléphone invalide.",
+    "regWhats": "Numéro WhatsApp invalide."
+}

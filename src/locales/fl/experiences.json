@@ -1,0 +1,52 @@
+{
+  "title": "HET BESTE VAN BRAZILIË",
+  "cards": {
+    "cachaca": {
+      "title": "Cachaça-proeverij",
+      "text": "Ontdek de geheimen van ambachtelijke cachaça in een van de meest traditionele regio’s van Brazilië. Proef exclusieve variëteiten terwijl u leert over het productieproces.",
+      "location": "Paraty, RJ"
+    },
+    "capoeira": {
+      "title": "Capoeirales",
+      "text": "Voel de energie van capoeira met gerenommeerde meesters in Salvador. Leer de basisbewegingen en de geschiedenis van deze unieke krijgskunst die dans, muziek en sport combineert.",
+      "location": "Salvador, BA"
+    },
+    "regata": {
+      "title": "Zeiltocht in Regatta-stijl",
+      "text": "Vaar over het water van de Guanabara-baai aan boord van een regattazeilboot en bewonder het adembenemende uitzicht op Rio de Janeiro vanuit een heel nieuw perspectief.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "iemanja": {
+      "title": "Offer aan Iemanjá",
+      "text": "Neem deel aan dit heilige Afro-Braziliaanse ritueel door geschenken aan de zee te brengen ter ere van Iemanjá, de koningin van de oceaan. Een diep spirituele en culturele ervaring.",
+      "location": "Salvador, BA"
+    },
+    "grafite": {
+      "title": "Graffitiworkshop",
+      "text": "Neem deel aan een workshop met lokale graffiti-artiesten en leer de technieken achter de muurschilderingen die de graffitihoofdstad van de wereld kleuren. Aan het einde laat u uw eigen spoor achter op een gezamenlijk kunstwerk.",
+      "location": "São Paulo, SP"
+    },
+    "cristo": {
+      "title": "Van Aangezicht tot Aangezicht – Christus de Verlosser",
+      "text": "Geniet van een onvergetelijke ontmoeting met adembenemende panoramische uitzichten en een bijzonder moment om de unieke energie van deze plek te ervaren. Een tour die geloof, cultuur en natuur combineert.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "fantasias": {
+      "title": "Carnavalkostuums Maken",
+      "text": "Kijk achter de schermen van het Carnaval van Rio en maak uw eigen kostuum samen met ambachtslieden en ontwerpers. Een levendige ervaring vol glans, kleur en creativiteit.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "havaianas": {
+      "title": "Workshop Gepersonaliseerde Havaianas",
+      "text": "Maak gepersonaliseerde Havaianas met het logo van uw bedrijf.",
+      "location": "Rio de Janeiro, RJ"
+    }
+  },
+  "caipirinha": {
+    "title": "CAIPIRINHA-WORKSHOP",
+    "text": "Geniet van een exclusieve ervaring waarin u leert hoe u de traditionele caipirinha bereidt met verfijnde technieken en zorgvuldig geselecteerde ingrediënten."
+  },
+  "video": {
+    "title": "Avontuur en Schoonheid tijdens een Regatta door de Guanabara-baai"
+  }
+}

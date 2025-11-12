@@ -1,0 +1,101 @@
+html {
+  scroll-behavior: smooth; /* Faz a rolagem suave */
+}
+.titleHTL-PROD{
+   background-color: #084b71;
+   padding: 20px;
+   color: white;
+   font-size: 1.5rem;
+   font-weight: bold;
+   font-weight: 400;
+}
+
+.galleryHtl {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.cardshtl {
+    width: 80%;
+    /* o container pode ter qualquer tamanho */
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 15px;
+}
+
+.namehtl {
+    padding: 10px;
+    color: #084b71;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.cardshtl img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.itensHotel {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    background-color: #084b71;
+    color: aliceblue;
+    border-radius: 5px;
+
+}
+
+.roomsHtl{
+    color:#084b71;  
+    font-weight: 300;
+}
+.roomsHtl span{
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #084b71;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 7px;
+    color: aliceblue;
+}
+
+.divisorhtl{
+    border-bottom: 1px solid black;
+    width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.summary{
+    margin-left: 20px;
+    padding: 10px;
+}
+.summary a{
+    color: #084b71;
+    font-size: 1.2rem;
+    line-height: 1.9rem;
+    padding: 10px;
+}
+
+@media (max-width: 768px) {
+    .cardshtl {
+        width: 70%;
+    }
+
+    .cardshtl img {
+        width: 100%;
+    }
+
+    .itensHotel {
+        flex-direction: column;
+        padding: 25px;
+    }
+}

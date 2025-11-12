@@ -1,0 +1,127 @@
+.navbar {
+  display: flex;
+  justify-content: space-between; /* separa logo e ícone no mobile */
+  align-items: center;
+  background-color: white;
+  padding: 1.5rem;
+  position: relative;
+  height: 100px;
+  border-bottom: 2px solid #084b71;
+}
+
+.logo {
+  font-size: 2.1rem;
+  color: #084b71;
+  font-family: "Roboto", sans-serif !important;
+  font-weight: 300;
+}
+
+.logo span {
+  font-weight: 400;
+}
+
+.nav-links a {
+  color: #084b71;
+  text-decoration: none;
+  font-size: 1.3rem;
+  transition: color 0.3s;
+  margin-bottom: 30px;
+  font-family: "Roboto", sans-serif !important;
+  font-weight: 300;
+}
+
+.nav-links a:hover {
+  color: #0878f9;
+}
+
+.nav-links a.logout {
+  background-color: blue;
+  color: white;
+  padding: 8px 16px;
+}
+
+.nav-links a.admin {
+  background-color: blueviolet;
+  color: white;
+  padding: 8px 16px;
+}
+
+/* Ícone do hambúrguer */
+.hamburger {
+  display: none;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  color: #084b71;
+  z-index: 1100; /* garante que fica sempre acima do menu */
+}
+
+/* MOBILE */
+@media (max-width: 821px) {
+  .navbar {
+    flex-direction: row; /* logo e hambúrguer lado a lado */
+    justify-content: space-between;
+  }
+
+  /* Menu escondido por padrão */
+  .nav-links {
+    position: absolute;
+    top: 100%; /* logo abaixo da navbar */
+    left: 0;
+    width: 100%;
+    background-color: white;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 0;
+    display: none;
+    z-index: 1000;
+    animation: slideDown 0.3s ease forwards;
+  }
+
+  /* Quando abre o hambúrguer */
+  .nav-links.active {
+    display: flex;
+  }
+
+  .hamburger {
+    display: flex;
+    position: static; /* mantém no fluxo normal */
+  }
+}
+
+/* DESKTOP */
+@media (min-width: 769px) {
+  .nav-links {
+    display: flex;
+    flex-direction: row;
+    gap: 1.2rem;
+  }
+
+  .hamburger {
+    display: none;
+  }
+
+  .navbar {
+    flex-direction: column; /* logo em cima e links embaixo */
+    justify-content: center;
+    align-items: center;
+  }
+
+  .logo {
+    margin-bottom: 30px;
+  }
+}
+
+/* Animação suave */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

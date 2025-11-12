@@ -1,0 +1,132 @@
+* {
+    margin: 0px;
+}
+
+.titleAbout h2 {
+    background-color: #084b71;
+    padding: 20px;
+    color: white;
+    font-size: 1.9rem;
+    font-weight: 300;
+}
+
+.titleAbout span {
+    font-weight: bold;
+}
+
+.sensations{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sensations img {
+    width: 100%;        /* ocupa toda a largura disponível */
+    max-width: 1100px;   /* limita para não passar disso */
+    height: auto;       /* mantém proporção */
+    object-fit: contain;
+    margin: 20px 0;
+    display: block;
+}
+.sensations img {
+  transition: transform 0.3s ease; /* duração 0.3s, suavização ease */
+}
+
+.sensations img:hover {
+    transform: translateY(-5px);
+    /* sobe 5px */
+    cursor: pointer;
+}
+
+/*SUBPASTAS SENSATIONS*/
+.sub-sensations{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sub-sensations img{
+    width: 100%;        /* ocupa toda a largura disponível */
+    max-width: 1100px;   /* limita para não passar disso */
+    height: auto;       /* mantém proporção */
+    object-fit: contain;
+    margin: 20px 0;
+    display: block;
+}
+
+.info-sub-sensations{
+    width: 100%;        /* ocupa toda a largura disponível */
+    max-width: 1100px;   /* limita para não passar disso */
+    height: auto;       /* mantém proporção */
+    object-fit: contain;
+    display: block;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.3); /* sombra só embaixo */
+    margin-bottom: 50px;
+}
+.info-sub-sensations p, h1{
+    margin: 20px;
+    color: #084b71;
+}
+.info-sub-sensations span{
+    font-weight: 400;
+}
+.info-sub-sensations p{
+    font-size: 1.2rem;
+    border-style: solid;        /* tipo da borda */
+    border-color: black;        /* cor da borda */
+    border-width: 1px 0 1px 0;  /* top right bottom left */
+    padding: 20px 0; /* 10px em cima e embaixo, 0 nas laterais */
+}
+
+.galeria {
+  column-count: 1;      /* padrão mobile */
+  column-gap: 15px;
+  padding: 20px;
+}
+
+.galeria img {
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+  display: block;
+}
+
+.galeria img:hover {
+  transform: scale(1.05);
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+  .galeria {
+    column-count: 2;
+  }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  .galeria {
+    column-count: 2;
+  }
+}
+
+.btnSensations{
+    padding: 15px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 0px 2px 6px rgba(6, 75, 179, 0.784);
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #084b71;
+    color: white;
+    transition: transform 0.2s ease;
+}
+
+.btnSensations:hover{
+    transform: scale(1.05);
+}

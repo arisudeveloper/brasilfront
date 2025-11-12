@@ -1,0 +1,63 @@
+import sub2 from "../../../assets/images/sensations/sub2.png";
+import lux01 from "../../../assets/images/sensations/lux01.png";
+import lux02 from "../../../assets/images/sensations/lux02.png";
+import lux03 from "../../../assets/images/sensations/lux03.png";
+import lux04 from "../../../assets/images/sensations/lux04.png";
+import Navbar from "../../../components/NavBar/NavBar";
+import Footer from "../../../components/Footer/Footer";
+import { Link } from "react-router-dom";
+import "../Sensations.css";
+import { useTranslation } from "react-i18next";
+import Languages from "../../../components/Languages/Languages";
+
+// Lista das imagens locais
+const novasImagens = [
+  { img: lux01, key: "gallery.img1" },
+  { img: lux02, key: "gallery.img2" },
+  { img: lux03, key: "gallery.img3" },
+  { img: lux04, key: "gallery.img4" },
+];
+
+const Luxury = () => {
+  const { t } = useTranslation("luxury");
+
+  return (
+    <>
+      <Languages />
+      <Navbar />
+
+      <h2 className="titleAbout">
+        {t("titlePart1")} <span>{t("titlePart2")}</span>
+      </h2>
+
+      <div className="sub-sensations">
+        <img
+          src={sub2}
+          alt={t("subImageAlt")}
+          style={{ width: "100%", height: "auto" }}
+        />
+
+        <div className="info-sub-sensations">
+          <h1>
+            {t("headingPart1")} <span>{t("headingPart2")}</span>
+          </h1>
+          <p>{t("description")}</p>
+
+          <div className="galeria">
+            {novasImagens.map((item, index) => (
+              <img key={index} src={item.img} alt={t(item.key)} />
+            ))}
+          </div>
+        </div>
+
+        <Link to="/sensations">
+          <button className="btnSensations">{t("button")}</button>
+        </Link>
+      </div>
+
+      <Footer />
+    </>
+  );
+};
+
+export default Luxury;

@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "LGBTQIA+ Brazil Sensations",
+    "subtitle": "Un nuevo socio de IGLTA",
+    "logoAlt": "Logo IGLTA"
+  },
+  "about": {
+    "title": "Somos Brazil Sensations.",
+    "text": "Más que un operador turístico, somos especialistas en crear experiencias que despiertan los sentidos, celebran la libertad y dejan recuerdos para toda la vida. ¿Nuestro enfoque? El Brasil auténtico, diverso y vibrante, con un afecto especial por los viajes en grupo diseñados para la comunidad LGBT, donde cada detalle está cuidadosamente pensado con inclusión, alegría y seguridad. Creemos que viajar en grupo es la forma más auténtica de celebrar la vida: con risas compartidas, descubrimientos únicos y conexiones profundas. Por eso, nuestros itinerarios combinan comodidad, exclusividad y hospitalidad cálida — con guías inclusivos, alojamientos LGBT-friendly y experiencias inmersivas que reflejan el alma de cada destino y el ritmo de cada grupo. Desde ciudades vibrantes hasta playas paradisíacas, desde fiestas coloridas hasta paisajes naturales impresionantes — con un toque de gastronomía y cultura local — cuidamos cada detalle con pasión y profesionalismo, para que tu grupo pueda simplemente disfrutar del momento. Con Brazil Sensations, no solo ves Brasil. Vives Brasil — con autenticidad, seguridad y la calidez que solo este país puede ofrecer.",
+    "mapAlt": "Mapa de Brasil"
+  },
+  "regions": {
+    "north": {
+      "title": "Región Norte",
+      "text": "La región Norte destaca la resistencia y expresión LGBTQIA+ a través de fiestas culturales, movimientos sociales y artistas locales en ciudades como Belém y Manaus. Con cruceros fluviales, ecoturismo e iniciativas lideradas por comunidades indígenas, los viajeros queer encuentran una hospitalidad auténtica donde identidad y tradición se encuentran, creando una experiencia amazónica única e inclusiva."
+    },
+    "northeast": {
+      "title": "Región Noreste",
+      "text": "El Noreste celebra la vida, la libertad y el orgullo LGBTQIA+ a través de carnavales inclusivos, escenas artísticas vibrantes y playas queer-friendly en ciudades como Salvador, Recife y Fortaleza. Con su espíritu cálido, cultura rica y energía acogedora, la región ofrece a los viajeros una celebración alegre y auténtica de la diversidad y el amor."
+    },
+    "centralWest": {
+      "title": "Región Centro-Oeste",
+      "text": "El Centro-Oeste combina la naturaleza salvaje con la creciente visibilidad LGBTQIA+, desde la escena progresista de Brasilia hasta el Pantanal y la Chapada dos Veadeiros. Con cascadas, paisajes místicos y retiros inclusivos, la región ofrece a los viajeros queer espiritualidad, sostenibilidad y viajes transformadores en armonía con la naturaleza."
+    },
+    "southeast": {
+      "title": "Región Sureste",
+      "text": "El Sureste es el centro de diversidad de Brasil, con el famoso Desfile del Orgullo de São Paulo, las icónicas playas queer de Río y escenas culturales vibrantes en ciudades como Belo Horizonte y Vitória. Desde la vida nocturna y los festivales hasta colectivos artísticos y proyectos comunitarios, la región celebra el orgullo LGBTQIA+ como un estilo de vida."
+    },
+    "southern": {
+      "title": "Región Sur",
+      "text": "El Sur de Brasil combina el encanto europeo, paisajes impresionantes y una escena LGBTQIA+ en crecimiento. Con las playas queer de Floripa, los festivales de Curitiba y el ambiente romántico de Gramado, la región combina belleza e inclusión, ofreciendo a los viajeros escapes vibrantes y espacios acogedores."
+    }
+  }
+}

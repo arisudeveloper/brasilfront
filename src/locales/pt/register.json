@@ -1,0 +1,29 @@
+{
+    "titleRegister": "Começar",
+    "subtitleRegister": {
+        "part1": "Quer saber mais sobre nossos serviços? Tem interesse em conhecer nossas propostas?",
+        "part2": "Preencha o formulário abaixo e entraremos em contato com você."
+    },
+    "firstName": "Nome:",
+    "lastName": "Sobrenome:",
+    "email": "E-mail:",
+    "username": "Nome de usuário:",
+    "password": "Senha:",
+    "password2": "Confirme sua senha:",
+    "company": "Empresa:",
+    "country": "País:",
+    "mice": "MICE (Reuniões, incentivos, conferências, eventos):",
+    "fit": "FIT (Turistas individuais):",
+    "groups": "Grupos:",
+    "guaranteed": "Saídas garantidas:",
+    "leisure": "Lazer",
+    "btnRegister": "Cadastrar",
+    "phone": "Telefone",
+    "regFName": "Nome inválido. Use apenas letras.",
+    "regLName": "Sobrenome inválido. Use apenas letras.",
+    "regEmail": "Digite um email válido.",
+    "regPass": "A senha deve ter pelo menos 6 caracteres, incluindo letras e números.",
+    "regConfirmPass": "As senhas não coincidem.",
+    "regPhone": "Número de telefone inválido.",
+    "regWhats": "Número de WhatsApp inválido."
+}

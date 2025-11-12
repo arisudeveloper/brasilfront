@@ -1,0 +1,9 @@
+{
+    "titleForgot": "Enter your e-mail:",
+    "confirm": "Confirm",
+    "titleReset": "Enter your new password: ",
+    "confirmPass": "Confirm your new password: ",
+    "regPass": "The password must be at least 6 characters long and include letters and numbers.",
+    "regConfirmPass": "Passwords do not match.",
+    "regEmail": "Enter a valid email address."
+}

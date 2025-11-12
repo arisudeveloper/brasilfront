@@ -1,0 +1,55 @@
+{
+  "titleSpan": "O NAS",
+  "title": "KIM JESTEŚMY",
+  "paragraph1": "Założona w 2014 roku, Brazil Sensations jest jedną z najbardziej kompleksowych, innowacyjnych i godnych zaufania firm w sektorze MICE oraz usług luksusowych w Brazylii.",
+  "paragraph2": "Dzięki solidnej strukturze organizacyjnej i dogłębnej znajomości kraju, nasz międzynarodowy zespół ekspertów z branży MICE i usług luksusowych, wspierany przez rozległą sieć zaufanych i renomowanych partnerów, tworzy rozwiązania szyte na miarę. Łączymy siły, aby zapewnić naszym klientom – indywidualnym i korporacyjnym, małym grupom i dużym projektom – wyjątkowe doświadczenia.",
+  "list": {
+    "item1": "Dynamiczny zespół wnoszący kreatywne podejście",
+    "item2": "Zaangażowani profesjonaliści dbający o potrzeby swoich partnerów",
+    "item3": "Multikulturowa grupa, która uwielbia wyzwania i dobrą zabawę"
+  },
+  "mission": {
+    "title": "Misja",
+    "text": "Zapewniać kompleksowe plany podróży i sprawiać, by nasi goście przeżywali najlepsze możliwe doświadczenia."
+  },
+  "vision": {
+    "title": "Wizja",
+    "text": "Ugruntować naszą pozycję jako jednej z wiodących firm turystycznych poprzez świadczenie usług najwyższej jakości, kreatywność, konkurencyjność, odpowiedzialność społeczną i innowacyjność."
+  },
+  "values": {
+    "title": "Wartości",
+    "text": "Gościnność, uczciwość, pasja, zaangażowanie i lojalność wobec klienta, nieustanny rozwój oraz gotowość do zapewnienia najlepszego doświadczenia w planowaniu podróży."
+  },
+  "green": {
+    "title1": "JESTEŚMY W 100% EKO!",
+    "title2": "NASZE ZAANGAŻOWANIE DLA ŚWIATA",
+    "text": "Brazil Sensations to pierwsze brazylijskie DMC, które zaangażowało się w kompensację emisji dwutlenku węgla wynikających ze swojej działalności. Oprócz codziennych działań minimalizujących nasz wpływ na planetę, Brazil Sensations pragnie nie tylko być ekologiczną i zrównoważoną firmą, ale również wzmacniać koncepcję regeneracji. Dzięki długoletniemu doświadczeniu z Agroforestry Carbon, nasze emisje CO₂ są kompensowane poprzez udział w certyfikowanych projektach w Brazylii.",
+    "imgAlt": "Zielone Zaangażowanie"
+  },
+  "impact": {
+    "environment": {
+      "title": "WPŁYW",
+      "span": "ŚRODOWISKOWY",
+      "list": [
+        "Odbudowa zdegradowanych obszarów",
+        "Zwiększenie sekwestracji CO₂ na jednostkę powierzchni",
+        "Poprawa jakości gleby",
+        "Ochrona źródeł wody",
+        "Zwiększenie bioróżnorodności",
+        "Zwiększenie produktywności w poszczególnych strefach"
+      ]
+    },
+    "social": {
+      "title": "WPŁYW",
+      "span": "SPOŁECZNY",
+      "list": [
+        "Różnorodność kulturowa i produkcyjna",
+        "Budowanie odporności gospodarczej",
+        "Zapewnienie bezpieczeństwa żywnościowego",
+        "Wzmacnianie lokalnych produktów",
+        "Żywność o wyższej wartości odżywczej",
+        "Poprawa jakości życia rolników"
+      ]
+    }
+  }
+}

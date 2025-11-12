@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "LGBTQIA+ Brazil Sensations",
+    "subtitle": "Een Nieuwe IGLTA-partner",
+    "logoAlt": "IGLTA-logo"
+  },
+  "about": {
+    "title": "Wij zijn Brazil Sensations.",
+    "text": "Meer dan alleen een touroperator: wij zijn specialisten in het creëren van ervaringen die de zintuigen prikkelen, vrijheid vieren en blijvende herinneringen nalaten. Onze focus? Het authentieke, diverse en bruisende Brazilië — met een bijzondere aandacht voor groepsreizen voor de LGBT-gemeenschap, waarin elk detail met zorg, vreugde en veiligheid wordt ontworpen. Wij geloven dat reizen in groep de mooiste manier is om het leven te vieren: met gedeelde lachmomenten, unieke ontdekkingen en oprechte verbindingen. Daarom combineren onze reisroutes comfort, exclusiviteit en warme gastvrijheid — met inclusieve gidsen, LGBT-vriendelijke accommodaties en meeslepende ervaringen die de ziel van elke bestemming weerspiegelen en het ritme van elke groep volgen. Van levendige steden tot paradijselijke stranden, van kleurrijke feesten tot adembenemende natuur — met een vleugje lokale keuken en cultuur onderweg — wij zorgen met passie en professionaliteit voor elk detail, zodat uw groep volop kan genieten van het moment. Met Brazil Sensations zie je Brazilië niet alleen. Je beleeft het — met authenticiteit, veiligheid en de warmte die alleen dit land kan bieden.",
+    "mapAlt": "Kaart van Brazilië"
+  },
+  "regions": {
+    "north": {
+      "title": "Noordelijke Regio",
+      "text": "De noordelijke regio benadrukt LGBTQIA+-weerstand en expressie via culturele feesten, sociale bewegingen en lokale artiesten in steden als Belém en Manaus. Met riviercruises, ecotoerisme en initiatieven geleid door inheemse gemeenschappen vinden queerreizigers hier oprechte gastvrijheid, waar identiteit en traditie samenkomen — voor een unieke en inclusieve Amazone-ervaring."
+    },
+    "northeast": {
+      "title": "Noordoostelijke Regio",
+      "text": "Het noordoosten viert het leven, de vrijheid en LGBTQIA+-trots met inclusieve carnavals, levendige kunstscènes en queer-vriendelijke stranden in steden als Salvador, Recife en Fortaleza. Met zijn warme geest, rijke cultuur en gastvrije energie biedt deze regio reizigers een vreugdevolle en authentieke viering van diversiteit en liefde."
+    },
+    "centralWest": {
+      "title": "Centraal-Westelijke Regio",
+      "text": "De Centraal-Westelijke regio verenigt wilde natuur met groeiende LGBTQIA+-zichtbaarheid — van de progressieve scene van Brasília tot het Pantanal en de Chapada dos Veadeiros. Met watervallen, mystieke landschappen en inclusieve retraites biedt de regio queerreizigers spiritualiteit, duurzaamheid en transformerende ervaringen in harmonie met de natuur."
+    },
+    "southeast": {
+      "title": "Zuidoostelijke Regio",
+      "text": "Het zuidoosten is het kloppende hart van diversiteit in Brazilië, met São Paulo’s wereldberoemde Pride Parade, de iconische queerstranden van Rio en levendige culturele scènes in steden als Belo Horizonte en Vitória. Van nachtleven en festivals tot kunstcollectieven en gemeenschapsprojecten — de regio viert LGBTQIA+-trots als een levensstijl."
+    },
+    "southern": {
+      "title": "Zuidelijke Regio",
+      "text": "Het zuiden van Brazilië combineert Europese charme, prachtige landschappen en een groeiende LGBTQIA+-scene. Met de queerstranden van Floripa, de festivals van Curitiba en de romantische sfeer van Gramado biedt de regio een mix van schoonheid en inclusiviteit — met levendige uitjes en warme, gastvrije plekken."
+    }
+  }
+}

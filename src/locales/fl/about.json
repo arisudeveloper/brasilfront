@@ -1,0 +1,55 @@
+{
+  "titleSpan": "OVER",
+  "title": "ONS",
+  "paragraph1": "Opgericht in 2014, vertegenwoordigt Brazil Sensations een van de meest complete, innovatieve en betrouwbare bedrijven binnen de MICE- en luxeservicesector in Brazilië.",
+  "paragraph2": "Met een sterke organisatie en diepgaande kennis van het land wordt ons internationale team van MICE- en luxe-experts ondersteund door een uitgebreid netwerk van betrouwbare en bekende partners. Samen creëren we op maat gemaakte ervaringen en oplossingen voor onze klanten, individueel of zakelijk, kleine groepen of grote projecten.",
+  "list": {
+    "item1": "Dynamisch team met een creatieve aanpak",
+    "item2": "Toegewijde professionals die zich inzetten om aan de behoeften van hun partners te voldoen",
+    "item3": "Multicultureel team dat van uitdagingen en plezier houdt"
+  },
+  "mission": {
+    "title": "Missie",
+    "text": "Een compleet reisplan aanbieden en onze gasten de beste ervaring laten beleven."
+  },
+  "vision": {
+    "title": "Visie",
+    "text": "Onze positie versterken als een van de toonaangevende bedrijven in het toerisme door kwaliteitsvolle diensten, creativiteit, competitiviteit, sociale verantwoordelijkheid en innovatie te bieden."
+  },
+  "values": {
+    "title": "Waarden",
+    "text": "Gastvrijheid, integriteit, passie, toewijding en trouw aan de klant, voortdurende evolutie en beschikbaarheid om de beste reiservaring te bieden."
+  },
+  "green": {
+    "title1": "WIJ ZIJN 100% GROEN!",
+    "title2": "ONZE TOEWENDING AAN DE WERELD",
+    "text": "Brazil Sensations is het eerste Braziliaanse DMC dat zich inzet voor het compenseren van zijn CO2-uitstoot. Naast onze dagelijkse inspanningen om onze impact op de planeet te verminderen, wil Brazil Sensations niet alleen ecologisch en duurzaam zijn, maar ook het regeneratieve concept versterken. Na jarenlange ervaring met Agroforestry Carbon worden onze CO2-emissies gecompenseerd via gecertificeerde projecten in Brazilië.",
+    "imgAlt": "Groene Toewijding"
+  },
+  "impact": {
+    "environment": {
+      "title": "IMPACT",
+      "span": "MILIEU",
+      "list": [
+        "Herstel van gedegradeerde gebieden",
+        "Verhoogde CO2-opname per oppervlakte",
+        "Verbeterde bodemkwaliteit",
+        "Bescherming van waterbronnen",
+        "Grotere biodiversiteit",
+        "Hogere productiviteit per zone"
+      ]
+    },
+    "social": {
+      "title": "IMPACT",
+      "span": "SOCIAAL",
+      "list": [
+        "Diversificatie van cultuur en productie",
+        "Opbouw van economische veerkracht",
+        "Waarborging van voedselzekerheid",
+        "Versterking van lokale producten",
+        "Voeding met hogere voedingswaarde",
+        "Verbeterde levenskwaliteit voor de boer"
+      ]
+    }
+  }
+}

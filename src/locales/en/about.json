@@ -1,0 +1,55 @@
+{
+  "titleSpan": "ABOUT",
+  "title": "US",
+  "paragraph1": "Founded in 2014, Brazil Sensations represents one of the most complete, innovative and reliable companies in the MICE and luxury services sector in Brazil.",
+  "paragraph2": "With a solid organizational structure and intense knowledge of the country, our international team of MICE and luxury services sector experts as well as in-house resources are backed by a vast network of reliable and well-known partners. United to create tailor-made experiences and solutions for our clients, individual or corporate, small groups or large projects.",
+  "list": {
+    "item1": "Dynamic team that brings a creative twist",
+    "item2": "Committed professionals dedicated to ensure the needs of their partners",
+    "item3": "Multicultural group that loves challenges and having fun"
+  },
+  "mission": {
+    "title": "Mission",
+    "text": "To provide the complete travel plan and make our guests live the best experience."
+  },
+  "vision": {
+    "title": "Vision",
+    "text": "To consolidate our position as one of the leading companies in tourism by providing quality services, creativity, competitiveness, social responsibility and innovation."
+  },
+  "values": {
+    "title": "Values",
+    "text": "Hospitality, integrity, passion, commitment and loyalty to the client, constant evolution, availability to provide the best travel planning experience."
+  },
+  "green": {
+    "title1": "WE ARE 100% GREEN !",
+    "title2": "OUR COMMITMENT TO THE WORLD",
+    "text": "Brazil Sensations is the first Brazilian DMC to engage in carbon offsetting of its activities. In addition to our daily gestures to minimize our impact on the planet, Brazil Sensations has wished, not only to be ecological and sustainable, but also to reinforce the regenerative concept. After a long experience with Agroforestry Carbon, our CO2 emissions are offset in contribution to certified projects in Brazil.",
+    "imgAlt": "Green Commitment"
+  },
+  "impact": {
+    "environment": {
+      "title": "IMPACT",
+      "span": "ENVIRONMENTAL",
+      "list": [
+        "Recovery of degraded areas",
+        "Increased CO2 sequestration per area",
+        "Improved soil conditions",
+        "Protection of water sources",
+        "Increased biodiversity",
+        "Increased productivity by zone"
+      ]
+    },
+    "social": {
+      "title": "IMPACT",
+      "span": "SOCIAL",
+      "list": [
+        "Culture and production diversification",
+        "Generation of an economic resilience",
+        "Ensuring food security",
+        "Reinforcement of local products",
+        "Food with higher nutritional value",
+        "Improved quality of life for the farmer"
+      ]
+    }
+  }
+}

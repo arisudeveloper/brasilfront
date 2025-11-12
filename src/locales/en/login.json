@@ -1,0 +1,11 @@
+{
+    "titleLogin": "Welcome back!",
+    "subtitleLogin": "Log in and discover new destinations with us.",
+    "email": "E-mail:",
+    "password": "Password:",
+    "btnLogin": "Log in",
+    "register": "New here? ",
+    "linkRegister": "Register",
+    "forgotTitle": "Forgot your Password? ",
+    "linkForgot": " click here"
+}

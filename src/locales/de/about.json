@@ -1,0 +1,55 @@
+{
+  "titleSpan": "ÜBER",
+  "title": "UNS",
+  "paragraph1": "Gegründet im Jahr 2014, repräsentiert Brazil Sensations eines der vollständigsten, innovativsten und zuverlässigsten Unternehmen im MICE- und Luxusdienstleistungssektor in Brasilien.",
+  "paragraph2": "Mit einer soliden Organisationsstruktur und umfassendem Wissen über das Land wird unser internationales Team von Experten im MICE- und Luxusdienstleistungssektor sowie unsere internen Ressourcen durch ein großes Netzwerk zuverlässiger und bekannter Partner unterstützt. Gemeinsam schaffen wir maßgeschneiderte Erlebnisse und Lösungen für unsere Kunden – individuell oder geschäftlich, kleine Gruppen oder große Projekte.",
+  "list": {
+    "item1": "Dynamisches Team, das kreative Impulse setzt",
+    "item2": "Engagierte Fachleute, die sich der Erfüllung der Bedürfnisse ihrer Partner widmen",
+    "item3": "Multikulturelle Gruppe, die Herausforderungen liebt und Spaß bei der Arbeit hat"
+  },
+  "mission": {
+    "title": "Mission",
+    "text": "Den vollständigen Reiseplan bereitzustellen und unseren Gästen das beste Erlebnis zu ermöglichen."
+  },
+  "vision": {
+    "title": "Vision",
+    "text": "Unsere Position als eines der führenden Unternehmen im Tourismus zu festigen, indem wir qualitativ hochwertige Dienstleistungen, Kreativität, Wettbewerbsfähigkeit, soziale Verantwortung und Innovation bieten."
+  },
+  "values": {
+    "title": "Werte",
+    "text": "Gastfreundschaft, Integrität, Leidenschaft, Engagement und Loyalität gegenüber dem Kunden, kontinuierliche Weiterentwicklung, Einsatzbereitschaft, um das beste Reiseplanungserlebnis zu bieten."
+  },
+  "green": {
+    "title1": "WIR SIND 100% GRÜN!",
+    "title2": "UNSER ENGAGEMENT FÜR DIE WELT",
+    "text": "Brazil Sensations ist die erste brasilianische DMC, die sich für die CO2-Kompensation ihrer Aktivitäten engagiert. Zusätzlich zu unseren täglichen Maßnahmen zur Minimierung unseres Einflusses auf den Planeten möchte Brazil Sensations nicht nur ökologisch und nachhaltig sein, sondern auch das regenerative Konzept stärken. Nach langjähriger Erfahrung mit Agroforst-Carbon werden unsere CO2-Emissionen durch Beiträge zu zertifizierten Projekten in Brasilien ausgeglichen.",
+    "imgAlt": "Grünes Engagement"
+  },
+  "impact": {
+    "environment": {
+      "title": "IMPAKT",
+      "span": "UMWELT",
+      "list": [
+        "Wiederherstellung degradierter Flächen",
+        "Erhöhte CO2-Bindung pro Fläche",
+        "Verbesserte Bodenbedingungen",
+        "Schutz von Wasserquellen",
+        "Erhöhte Biodiversität",
+        "Erhöhte Produktivität pro Zone"
+      ]
+    },
+    "social": {
+      "title": "IMPAKT",
+      "span": "SOZIAL",
+      "list": [
+        "Diversifizierung von Kultur und Produktion",
+        "Schaffung wirtschaftlicher Resilienz",
+        "Gewährleistung der Ernährungssicherheit",
+        "Stärkung lokaler Produkte",
+        "Lebensmittel mit höherem Nährwert",
+        "Verbesserte Lebensqualität für Landwirte"
+      ]
+    }
+  }
+}

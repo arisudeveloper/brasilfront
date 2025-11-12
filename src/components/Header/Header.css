@@ -1,0 +1,25 @@
+main {
+    background-size: cover;        
+    background-position: center;   
+    background-repeat: no-repeat;  
+    min-height: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+main  h1{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    font-size: 3.8rem;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+}
+
+@media (max-width: 768px) {
+  main h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+}

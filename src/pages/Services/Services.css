@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+}
+
+.titleServices{
+    background-color: #084b71;
+    padding: 20px;
+    color: white;
+    font-size: 1.9rem;
+    font-weight: bold;
+}
+
+.imgService{
+    width: 100%;
+}
+
+.secServices{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    column-gap: 1.2rem;
+    padding: 20px;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+.secServices li{
+    padding: 10px;
+}
+.secServices li::marker{
+    color: #084b71;
+}
+
+.logoService{
+    max-width: 200px;
+}

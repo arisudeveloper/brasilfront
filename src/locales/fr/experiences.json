@@ -1,0 +1,52 @@
+{
+  "title": "LE MEILLEUR DU BRÉSIL",
+  "cards": {
+    "cachaca": {
+      "title": "Dégustation de Cachaça",
+      "text": "Découvrez les secrets de la cachaça artisanale dans l'une des régions les plus traditionnelles du Brésil. Goûtez des variétés exclusives tout en apprenant le processus de production.",
+      "location": "Paraty, RJ"
+    },
+    "capoeira": {
+      "title": "Cours de Capoeira",
+      "text": "Vivez l'énergie de la capoeira avec des maîtres renommés à Salvador. Apprenez les mouvements de base et l'histoire de cet art martial unique qui mêle danse, musique et sport.",
+      "location": "Salvador, BA"
+    },
+    "regata": {
+      "title": "Regate en voiliers",
+      "text": "Prenez part à une régate de voiliers dans les eaux emblématiques de la baie de Guanabara et découvrez Rio de Janeiro sous un angle vibrant et sportif.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "iemanja": {
+      "title": "Offrande à Iemanjá",
+      "text": "Participez à ce rituel sacré afro-brésilien en offrant des présents à la mer en l'honneur d'Iemanjá, la reine de l'océan. Une expérience profondément spirituelle et culturelle.",
+      "location": "Salvador, BA"
+    },
+    "grafite": {
+      "title": "Atelier de Graffiti",
+      "text": "Rejoignez un atelier avec des artistes locaux et découvrez les techniques derrière les fresques qui colorent la capitale mondiale du graffiti. Laissez votre propre empreinte sur un panneau collectif.",
+      "location": "São Paulo, SP"
+    },
+    "cristo": {
+      "title": "Face à Face – Le Christ Rédempteur",
+      "text": "Profitez d'une rencontre inoubliable avec des vues panoramiques à couper le souffle et un moment unique pour contempler l'énergie de ce lieu sacré. Une visite qui mélange foi, culture et nature.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "fantasias": {
+      "title": "Création de Costumes de Carnaval",
+      "text": "Découvrez les coulisses du Carnaval de Rio et créez votre propre costume avec l'aide d'artisans et de créateurs. Une expérience vibrante pleine d'éclat, de couleur et de créativité.",
+      "location": "Rio de Janeiro, RJ"
+    },
+    "havaianas": {
+      "title": "Atelier de havainas costumisés",
+      "text": "Créez des Havaianas personnalisées avec le logo de votre entreprise.",
+      "location": "Rio de Janeiro, RJ"
+    }
+  },
+  "caipirinha": {
+    "title": "ATELIER DE CAIPIRINHA",
+    "text": "Profitez d'une expérience exclusive où vous apprendrez à préparer la caipirinha traditionnelle avec des techniques raffinées et des ingrédients soigneusement sélectionnés."
+  },
+  "video": {
+    "title": "Aventure et Beauté lors d'une Régate dans la Baie de Guanabara"
+  }
+}

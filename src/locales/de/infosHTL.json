@@ -1,0 +1,9 @@
+{
+    "rooms": "Zimmer",
+    "pool": "Pool",
+    "spa": "SPA",
+    "beach": "Strandservice",
+    "meet": "Veranstaltungsraum",
+    "rest": "Restaurant / Bar",
+    "gym": "Fitnessstudio"
+}

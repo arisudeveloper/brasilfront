@@ -1,0 +1,55 @@
+{
+  "titleSpan": "SOBRE",
+  "title": "NÓS",
+  "paragraph1": "Fundada em 2014, a Brazil Sensations representa uma das empresas mais completas, inovadoras e confiáveis do setor de serviços MICE e de luxo no Brasil.",
+  "paragraph2": "Com uma estrutura organizacional sólida e profundo conhecimento do país, nossa equipe internacional de especialistas no setor de MICE e serviços de luxo, juntamente com nossos recursos internos, conta com uma ampla rede de parceiros confiáveis e renomados. Unidos para criar experiências e soluções sob medida para nossos clientes, sejam eles individuais ou corporativos, pequenos grupos ou grandes projetos.",
+  "list": {
+    "item1": "Equipe dinâmica que traz um toque criativo",
+    "item2": "Profissionais comprometidos, dedicados a atender às necessidades de seus parceiros",
+    "item3": "Grupo multicultural que adora desafios e se divertir"
+  },
+  "mission": {
+    "title": "Missão",
+    "text": "Oferecer o planejamento completo da viagem e proporcionar aos nossos convidados a melhor experiência."
+  },
+  "vision": {
+    "title": "Visão",
+    "text": "Consolidar nossa posição como uma das empresas líderes em turismo, fornecendo serviços de qualidade, criatividade, competitividade, responsabilidade social e inovação."
+  },
+  "values": {
+    "title": "Valores",
+    "text": "Hospitalidade, integridade, paixão, compromisso e lealdade ao cliente, evolução constante, disponibilidade para oferecer a melhor experiência em planejamento de viagens."
+  },
+  "green": {
+    "title1": "SOMOS 100% VERDE !",
+    "title2": "NOSSO COMPROMISSO COM O MUNDO",
+    "text": "A Brazil Sensations é a primeira DMC brasileira a se engajar na compensação de carbono de suas atividades. Além dos nossos gestos diários para minimizar nosso impacto no planeta, a Brazil Sensations desejou, não apenas ser ecológica e sustentável, mas também reforçar o conceito regenerativo. Após longa experiência com Agroforestry Carbon, nossas emissões de CO2 são compensadas em contribuição a projetos certificados no Brasil.",
+    "imgAlt": "Compromisso Verde"
+  },
+  "impact": {
+    "environment": {
+      "title": "IMPACTO",
+      "span": "AMBIENTAL",
+      "list": [
+        "Recuperação de áreas degradadas",
+        "Aumento do sequestro de CO2 por área",
+        "Melhoria das condições do solo",
+        "Proteção de fontes de água",
+        "Aumento da biodiversidade",
+        "Aumento da produtividade por zona"
+      ]
+    },
+    "social": {
+      "title": "IMPACTO",
+      "span": "SOCIAL",
+      "list": [
+        "Diversificação cultural e produtiva",
+        "Geração de resiliência econômica",
+        "Garantia de segurança alimentar",
+        "Reforço de produtos locais",
+        "Alimentos com maior valor nutricional",
+        "Melhoria da qualidade de vida do agricultor"
+      ]
+    }
+  }
+}

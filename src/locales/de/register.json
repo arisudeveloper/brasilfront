@@ -1,0 +1,29 @@
+{
+    "titleRegister": "Loslegen",
+    "subtitleRegister": {
+        "part1": "Möchten Sie mehr über unsere Dienstleistungen erfahren? Interessieren Sie sich für unsere Angebote?",
+        "part2": "Füllen Sie das folgende Formular aus und wir werden uns mit Ihnen in Verbindung setzen."
+    },
+    "firstName": "Vorname:",
+    "lastName": "Nachname:",
+    "email": "E-Mail:",
+    "username": "Benutzername:",
+    "password": "Passwort:",
+    "password2": "Passwort bestätigen:",
+    "company": "Firma:",
+    "country": "Land:",
+    "mice": "MICE (Meetings, Incentives, Kongresse, Events):",
+    "fit": "FIT (Einzeltouristen):",
+    "groups": "Gruppen:",
+    "guaranteed": "Garantierte Abreisen:",
+    "leisure": "Freizeit",
+    "btnRegister": "Registrieren",
+    "phone": "Telefon",
+    "regFName": "Ungültiger Vorname. Verwenden Sie nur Buchstaben.",
+    "regLName": "Ungültiger Nachname. Verwenden Sie nur Buchstaben.",
+    "regEmail": "Geben Sie eine gültige E-Mail-Adresse ein.",
+    "regPass": "Das Passwort muss mindestens 6 Zeichen lang sein und Buchstaben sowie Zahlen enthalten.",
+    "regConfirmPass": "Die Passwörter stimmen nicht überein.",
+    "regPhone": "Ungültige Telefonnummer.",
+    "regWhats": "Ungültige WhatsApp-Nummer."
+}

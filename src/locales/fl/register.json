@@ -1,0 +1,29 @@
+{
+  "titleRegister": "Aan de slag",
+  "subtitleRegister": {
+    "part1": "Wil je meer weten over onze diensten? Ben je geïnteresseerd in onze voorstellen?",
+    "part2": "Vul het onderstaande formulier in en wij nemen contact met je op."
+  },
+  "firstName": "Voornaam:",
+  "lastName": "Achternaam:",
+  "email": "E-mail:",
+  "username": "Gebruikersnaam:",
+  "password": "Wachtwoord:",
+  "password2": "Bevestig je wachtwoord:",
+  "company": "Bedrijf:",
+  "country": "Land:",
+  "mice": "MICE (Meetings, Incentives, Conferences, Events):",
+  "fit": "FIT (Individuele toeristen):",
+  "groups": "Groepen:",
+  "guaranteed": "Gegarandeerde vertrekken:",
+  "leisure": "Vrije tijd",
+  "btnRegister": "Registreren",
+  "phone": "Telefoon",
+  "regFName": "Ongeldige voornaam. Gebruik alleen letters.",
+  "regLName": "Ongeldige achternaam. Gebruik alleen letters.",
+  "regEmail": "Voer een geldig e-mailadres in.",
+  "regPass": "Het wachtwoord moet minstens 6 tekens bevatten, inclusief letters en cijfers.",
+  "regConfirmPass": "Wachtwoorden komen niet overeen.",
+  "regPhone": "Ongeldig telefoonnummer.",
+  "regWhats": "Ongeldig WhatsApp-nummer."
+}

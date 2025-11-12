@@ -25,7 +25,7 @@ const Login = () => {
     }, 3000);
 
     if (errorElement.current) {
-      errorElement.current.style.opacity = 1;
+      errorElement.current.style.display = 'block';
       errorElement.current.innerText = error;
     }
   };
@@ -64,7 +64,7 @@ const Login = () => {
                     backgroundColor: '#F2DEDE',
                     color: '#D9534F',
                     padding: '10px 0',
-                    opacity: 0,
+                    display: 'none',
                   }}
                   ref={errorElement}
                 ></p>

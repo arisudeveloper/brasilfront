@@ -82,7 +82,7 @@ const Login = () => {
 
               <h5>
                 {t('register')}
-                <Link to="/register">{t('linkRegister')}</Link>
+                <Link to="/panel-de-clientes">{t('linkRegister')}</Link>
               </h5>
 
               <h5>

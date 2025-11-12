@@ -44,60 +44,27 @@ function App() {
     <BrowserRouter>
       <UserStorage>
         <Routes>
-          <Route path="/brasilfront/" element={<Home />}></Route>
+          <Route path="/" element={<Home />}></Route>
+          <Route path="/experiences" element={<Experiences />}></Route>
+          <Route path="/aboutus" element={<About />}></Route>
+          <Route path="/sensations" element={<Sensations />}></Route>
+          <Route path="/sensations/grp-fit" element={<GrpFit />}></Route>
+          <Route path="/sensations/luxury" element={<Luxury />}></Route>
+          <Route path="/sensations/mice" element={<Mice />}></Route>
+          <Route path="/sensations/exclusive" element={<Exclusive />}></Route>
+          <Route path="/sensations/workation" element={<Workation />}></Route>
+          <Route path="/sensations/hotels" element={<Hotels />}></Route>
+          <Route path="/services" element={<Services />}></Route>
+          <Route path="/clients" element={<Clients />}></Route>
+          <Route path="/iglta" element={<Iglta />}></Route>
+          <Route path="/panel-de-clientes" element={<Register />}></Route>
+          <Route path="/login" element={<Login />}></Route>
+          <Route path="/pending" element={<PagePending />}></Route>
+          <Route path="/forgot-pass" element={<ForgotPass />}></Route>
+          <Route path="/privacy-policy" element={<PrivacyPolicy />}></Route>
+          <Route path="/reset-pass/:token" element={<ResetPass />}></Route>
           <Route
-            path="/brasilfront/experiences"
-            element={<Experiences />}
-          ></Route>
-          <Route path="/brasilfront/aboutus" element={<About />}></Route>
-          <Route
-            path="/brasilfront/sensations"
-            element={<Sensations />}
-          ></Route>
-          <Route
-            path="/brasilfront/sensations/grp-fit"
-            element={<GrpFit />}
-          ></Route>
-          <Route
-            path="/brasilfront/sensations/luxury"
-            element={<Luxury />}
-          ></Route>
-          <Route path="/brasilfront/sensations/mice" element={<Mice />}></Route>
-          <Route
-            path="/brasilfront/sensations/exclusive"
-            element={<Exclusive />}
-          ></Route>
-          <Route
-            path="/brasilfront/sensations/workation"
-            element={<Workation />}
-          ></Route>
-          <Route
-            path="/brasilfront/sensations/hotels"
-            element={<Hotels />}
-          ></Route>
-          <Route path="/brasilfront/services" element={<Services />}></Route>
-          <Route path="/brasilfront/clients" element={<Clients />}></Route>
-          <Route path="/brasilfront/iglta" element={<Iglta />}></Route>
-          <Route
-            path="/brasilfront/panel-de-clientes"
-            element={<Register />}
-          ></Route>
-          <Route path="/brasilfront/login" element={<Login />}></Route>
-          <Route path="/brasilfront/pending" element={<PagePending />}></Route>
-          <Route
-            path="/brasilfront/forgot-pass"
-            element={<ForgotPass />}
-          ></Route>
-          <Route
-            path="/brasilfront/privacy-policy"
-            element={<PrivacyPolicy />}
-          ></Route>
-          <Route
-            path="/brasilfront/reset-pass/:token"
-            element={<ResetPass />}
-          ></Route>
-          <Route
-            path="/brasilfront/initial"
+            path="/initial"
             element={
               <PrivateRoute>
                 <Initial />
@@ -105,40 +72,22 @@ function App() {
             }
           ></Route>
 
-          <Route
-            path="/brasilfront/home-production"
-            element={<HomeProd />}
-          ></Route>
+          <Route path="/home-production" element={<HomeProd />}></Route>
+
+          <Route path="/fit-production" element={<FitProd />}></Route>
+
+          <Route path="/group-production" element={<GRProd />}></Route>
+
+          <Route path="/home-hotels" element={<HomeHtl />}></Route>
+
+          <Route path="/northeast-hotels" element={<NortheastHtl />}></Route>
+
+          <Route path="/southeast-hotels" element={<SoutheastHtl />}></Route>
+
+          <Route path="/south-hotels" element={<SouthHtl />}></Route>
 
           <Route
-            path="/brasilfront/fit-production"
-            element={<FitProd />}
-          ></Route>
-
-          <Route
-            path="/brasilfront/group-production"
-            element={<GRProd />}
-          ></Route>
-
-          <Route path="/brasilfront/home-hotels" element={<HomeHtl />}></Route>
-
-          <Route
-            path="/brasilfront/northeast-hotels"
-            element={<NortheastHtl />}
-          ></Route>
-
-          <Route
-            path="/brasilfront/southeast-hotels"
-            element={<SoutheastHtl />}
-          ></Route>
-
-          <Route
-            path="/brasilfront/south-hotels"
-            element={<SouthHtl />}
-          ></Route>
-
-          <Route
-            path="/brasilfront/admin"
+            path="/admin"
             element={
               <PrivateRouteAdmin>
                 <Admin />

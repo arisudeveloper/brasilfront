@@ -41,7 +41,7 @@ import PrivateRouteAdmin from './PrivateRoute/PrivateRouteAdmin';
 
 function App() {
   return (
-    <HashRouter basename="/brasilfront">
+    <HashRouter>
       <UserStorage>
         <Routes>
           <Route path="/" element={<Home />}></Route>
